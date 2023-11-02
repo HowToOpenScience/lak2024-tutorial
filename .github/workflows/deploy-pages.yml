@@ -13,7 +13,7 @@ concurrency:
 jobs:
   deploy:
     # Execute only for our own repo so as not to be annoying
-    if: github.repository == 'HowToOpenScience/lak2023-tutorial'
+    if: github.repository == 'HowToOpenScience/lak2024-tutorial'
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout Repository

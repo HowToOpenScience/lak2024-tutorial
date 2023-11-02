@@ -1,10 +1,10 @@
-# How to Open Science: Promoting Principles and Reproducibility Practices within the Learning Analytics Community
+# Promoting Open Science in Learning Analytics: An Interactive Tutorial on Licensing, Data, and Containers
 
 [![OSF][badge]][osf]
 
-*How to Open Science: Promoting Principles and Reproducibility Practices within the Learning Analytics Community* is a tutorial to be presented at the [*13th International Conference on Learning Analytics and Knowledge*][lak].
+*Promoting Open Science in Learning Analytics: An Interactive Tutorial on Licensing, Data, and Containers* is a tutorial to be presented at the [*14th International Conference on Learning Analytics and Knowledge*][lak].
 
-This project serves as the repository holding the webpage. The rendered version can be viewed at https://lak2023-tutorial.howtoopenscience.com
+This project serves as the repository holding the webpage. The rendered version can be viewed at https://lak2024-tutorial.howtoopenscience.com
 
 ## License
 
@@ -43,21 +43,20 @@ mkdocs serve
 ## Citation
 
 ```
-@misc{Haim_Shaw_Heffernan_2022,
-  title={How to Open Science: Promoting Principles and Reproducibility Practices within the Learning Analytics Community},
-  url={osf.io/kyxba},
-  DOI={10.17605/OSF.IO/KYXBA},
+@misc{Haim_Hutt_Shaw_Heffernan_2023,
+  title={Promoting Open Science in Learning Analytics: An Interactive Tutorial on Licensing, Data, and Containers},
+  url={osf.io/kja8r},
   publisher={OSF},
-  author={Haim, Aaron and Shaw, Stacy T and Heffernan, Neil T, III},
-  year={2022},
-  month={Oct}
+  author={Haim, Aaron and Hutt, Stephen and Shaw, Stacy T and Heffernan, Neil T, III},
+  year={2023},
+  month={Nov}
 }
 ```
 
-[badge]: https://img.shields.io/badge/OSF-10.17605%2Fosf.io%2Fkyxba-blue
-[osf]: https://doi.org/10.17605/osf.io/kyxba
+[badge]: https://img.shields.io/badge/OSF-10.17605%2Fosf.io%2Fkja8r-blue
+[osf]: https://doi.org/10.17605/osf.io/kja8r
 
-[lak]: https://www.solaresearch.org/events/lak/lak23/
+[lak]: https://www.solaresearch.org/events/lak/lak24/
 
 [cc4]: ./LICENSE
 

@@ -11,7 +11,7 @@
 
 <!-- Organizations -->
 *[PSF]: Python Software Foundation
-*[LAK]: The 13th International Conference on Learning Analytics and Knowledge
+*[LAK]: The 43th International Conference on Learning Analytics and Knowledge
 
 <!-- Locations -->
 *[USA]: United States of America

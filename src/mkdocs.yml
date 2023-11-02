@@ -1,5 +1,5 @@
-site_name: "How to Open Science: LAK 2023 Tutorial"
-site_url: "https://lak2023-tutorial.howtoopenscience.com"
+site_name: "How to Open Science: LAK 2024 Tutorial"
+site_url: "https://lak2024-tutorial.howtoopenscience.com"
 
 theme:
   name: material
@@ -8,7 +8,7 @@ theme:
   icon:
     logo: bootstrap/unlock-one
 
-copyright: Copyright &copy; 2022 - 2023 Aaron Haim
+copyright: Copyright &copy; 2022 - 2024 Aaron Haim
 
 markdown_extensions:
   - abbr
@@ -34,7 +34,7 @@ extra:
       link: https://creativecommons.org/licenses/by/4.0/
       name: Available under the Creative Commons Attribution 4.0 International License
     - icon: fontawesome/solid/unlock-keyhole
-      link: https://doi.org/10.17605/osf.io/kyxba
+      link: https://osf.io/kja8r
       name: Open Science Framework Project
     - icon: fontawesome/brands/github
       link: https://github.com/HowToOpenScience
@@ -46,6 +46,7 @@ nav:
   - Introduction: index.md
   - Background: background.md
   - Agenda: agenda.md
+  - Requirements: requirements.md
   - Supplemental Materials: supplemental.md
   - Organizers: organizers.md
   - Attributions: attr.md

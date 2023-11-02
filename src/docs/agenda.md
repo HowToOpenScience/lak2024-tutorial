@@ -1,39 +1,33 @@
 # Agenda
 
+!!! note
+    This section is currently under development. The information provided is subject to change.
+
 The times provided are approximated for the maximum amount of time spent on each section. The sections may be shorter depending on the session.
 
-1. **Introduction to Open Science Practices (Lecture)** - 1 hour
-    1. Why should we do Open Science?
-    1. A Brief Disclaimer
-    1. Preregistration
-        1. Side Note: Registered Reports
-    1. Open Data
-    1. Open Materials
-    1. Publishing Papers
-        1. Open Access
-        1. Preprints
-    1. Break and Q&A
-1. **Working with the Open Science Framework (Interactive)** - 30 minutes
-    1. OSF Project
-    1. OSF Preregistration
-    1. Break and Q&A
-1. **Debugging and Fixing Reproducibility (Interactive)** - 50 minutes
-    1. What software do you use?
-    1. Reproducibility as relevant to the participants
-    1. Break and Q&A
-1. **Fixing Reproducibility within Others Work (Interactive)** - 40 minutes
-    1. Gurung, A., Botelho, A. F., Heffernan, N. T. (2021). Examining Student Effort on Help through Response Time Decomposition. In LAK21: 11th International Learning Analytics and Knowledge Conference (LAK21). Association for Computing Machinery, New York, NY, USA, 292–301. [https://doi.org/10.1145/3448139.3448167](https://doi.org/10.1145/3448139.3448167)
-    1. Shaw, S. T., Luna, M. L., Rodriguez, B., Yeh, J., Villalta, N., Ramirez, G. (2022). Mathematical Creativity in Elementary School Children: General Patterns and Effects of an Incubation Break. Front. Educ. 7:835911. [https://doi.org/10.3389/feduc.2022.835911](https://doi.org/10.3389/feduc.2022.835911)
+Agenda TBD.
 
-## Tutorial Structure
+## Tutorial Organization
 
-The tutorial will occur over three hours and focuses on introducing some common open science principles and their usage within education technology, providing an example on using the [Open Science Framework][osf] to create a project, post content, and preregister studies, and using previous papers to apply the learned principles and any additional reproduction mitigations.
+The proposed tutorial will occur over half a day, focusing on introducing some common open science practices and their usage within learning analytics, along with some interactive examples on how to apply the concepts in research. The target audience is researchers, as the practices offer structure and robustness. This approach will allow us to present a responsive tutorial and foster additional community around open science topics.
 
-1. We will provide a presentation on an overview of a few problems when conducting research. Using this as a baseline, we will introduce open science and its principles and practices and how they can be used to nullify some of these issues and mitigate others. In addition, we will attempt to dispel some of the misconceptions of these principles and practices.
-1. We will provide a live example of using the [Open Science Framework][osf] website to make an account, create a project, add contributors, add content and licensing, and publicize the project for all to see. Afterwards, we will provide a guide to creating a preregistration, explaining best practices, and identifying how to create an embargo. Additional features and concerns, such as anonymizing projects for review and steps required to properly do so, will be shown.
-1. We will discuss reproducibility metrics within work when providing datasets and materials. This will review commonly used software and languages (e.g. [Python][python], [RStudio][rstudio], etc.) and how, without any steps taken, most work tends to be extremely tedious to reproduce or are not reproducible in general. Afterwards, we will provide some mitigation strategies needed to remove these concerns.
-1. We will take our own research from prior conferences that do not meet some open science principles or cannot easily be reproduced and apply what has been learned across the entire tutorial. We will use a few papers, each containing different issues, and apply the necessary steps needed to reproduce the results within the paper.
+### Prior to the Conference
 
-[osf]: https://osf.io/
-[python]: https://www.python.org/
-[rstudio]: https://www.rstudio.com/
+Prior to the conference, we will be compiling and organizing all relevant resources to be published on a dedicated website for easy access both during and after the tutorial. In addition, we will request all registrants to complete a pre-survey (using the participant registration list following the author registration/early registration deadlines). This survey will gather insights about participants’ prior experience with the topics and their specific expectations from the tutorial. We will use this data to customize the tutorial and tailor to the needs of participants.
+
+### During the Conference
+
+Our tutorial session will be an interactive and responsive session split into three sections. These sections are outlined below:
+
+1. We will begin the tutorial by discussing how Intellectual Property (IP) intersects with the Open Science Framework. We'll tackle any questions or concerns from attendees with a focus on code licensing, guided by the principles from Creative Commons. We will discuss why licensing code is important, strategies to safeguard a researcher's intellectual property, and provide guidelines for both Tech Transfer and University IP protection.
+2. In the next segment of our tutorial, we discuss Open Data relative to the needs of participants. We anticipate opening this section by again addressing participant concerns to frame our future discussion. This will include identifying personal, moral, institutional, or legal concerns regarding open data.
+Participants will be introduced to the concept of Data Enclaves. This will cover understanding the primary objectives of sharing data (including identifying the goals of the individual research team), the relationship between Data Enclaves and GDPR/Privacy legislation, and real-world examples of accessing information via these enclaves. Furthermore, we will provide valuable resources on establishing and efficiently using Data Enclaves. We will also discuss how researchers can share anonymized and synthetic datasets, ensuring the identity of participants remains confidential. 
+We will close this segment of the tutorial with a general discussion, weighing the advantages and drawbacks of each approach. Throughout this section, we will emphasize that there is not a “one size fits all” solution and that researchers should make choices based on individual goals and requirements. 
+3. Finally, we will provide instruction towards sharing materials in a reproducible manner, including best practices on storage, documentation, and privacy. This will be demonstrated with an interactive example using development containers via [Visual Studio Code][vscode] and [Docker][docker]. The specific example used will be tailored based on survey responses.
+
+### Following the Conference
+
+After the conference, all additional resources created for the tutorial will be uploaded to the project’s homepage for preservation. As this tutorial wants to repeat and expand upon open science and reproducibility at prior tutorials across conferences, an additional project will be created on the OSF website containing components pointing to all previous conferences and resources. A post-survey will be available at the end and after the tutorial to obtain feedback about the presentation for future use. An aggregate of the response will also be made public on the project’s homepage. A Discord channel will be created following the tutorial to foster community on these topics.
+
+[vscode]: https://code.visualstudio.com/
+[docker]: https://www.docker.com/

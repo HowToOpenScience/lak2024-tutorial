@@ -1,5 +1,5 @@
 // Regex syntax for timestamp: Prefix#Display Time# $Time Zone Offset$Suffix
-const TIME_FORMAT_REGEX = /(.*)#(.+)# \$(\d{4}-\d{2}-\d{2}) ((?:\d{2}:\d{2}:\d{2}-\d{2}:\d{2}:\d{2},?)+) (\+|\-\d{2}:\d{2})\$(.*)/g;
+const TIME_FORMAT_REGEX = /(.*)#(.+)# \$(\d{4}-\d{2}-\d{2}) ((?:\d{2}:\d{2}:\d{2}-\d{2}:\d{2}:\d{2},?)+) ((?:\+|\-)\d{2}:\d{2})\$(.*)/g;
 
 // Get all classes for formatting time
 var time_replace = document.getElementsByClassName("time_format");

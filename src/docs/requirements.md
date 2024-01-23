@@ -4,8 +4,7 @@
 
 Please make sure to fill out the pre-survey as least one week prior to the conference start date: by March 11^th^, 2024. This may affect some aspects of the presented tutorial.
 
-!!! note
-    The link to the pre-survey will be published on February 1^st^, 2024.
+Link: [https://docs.google.com/forms/d/e/1FAIpQLScF979w2MhyvZHYMQV15lQlTG19T5RDpxjNtOwoAMAqbqmtdw/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLScF979w2MhyvZHYMQV15lQlTG19T5RDpxjNtOwoAMAqbqmtdw/viewform?usp=sharing)
 
 ## Visual Studio Code
 

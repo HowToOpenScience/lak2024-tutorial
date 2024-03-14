@@ -1,5 +1,5 @@
 # Get python docker container
-FROM python:3.9.5-alpine3.14
+FROM python:3.9.5-buster
 
 # Setup environment variables
 

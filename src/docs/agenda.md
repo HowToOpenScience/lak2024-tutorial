@@ -1,11 +1,13 @@
 # Agenda
 
-!!! note
-    This section is currently under development. The information provided is subject to change.
-
 The times provided are approximated for the maximum amount of time spent on each section. The sections may be shorter depending on the session.
 
-Agenda TBD.
+1. **Introductions** - 10 Minutes
+1. **Intellectual Property (IP) and Licensing** - 20 Minutes
+1. **Open Data and Data Enclaves** - 1 Hour
+1. **Break** - 20 minutes
+1. **Open Materials and Containerization** - 1 Hour
+1. **Wrap Up and Summary** - 10 Minutes
 
 ## Tutorial Organization
 

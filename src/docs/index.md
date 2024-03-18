@@ -1,6 +1,9 @@
 # Promoting Open Science in Learning Analytics: An Interactive Tutorial on Licensing, Data, and Containers
 
-Conference: [*LAK 2024*][lak] | March 18^th^ - 22^nd^, 2023 | Kyoto, Japan
+!!! important
+    This event has been postponed for Learning Analytics in Practice (LAP2024) on June 18^th^-20^th^, 2024.
+
+Conference: [*LAK 2024*][lak] | March 18^th^ - 22^nd^, 2024 | Kyoto, Japan
 
 <p class="time_format" markdown>
 Online ([Zoom][zoom]): #March 19^th^ 8:00 PM - 11:00 PM JST# $2024-03-19 20:00:00-23:00:00 +09:00$
